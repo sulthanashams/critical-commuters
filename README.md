@@ -10,3 +10,8 @@ Simply run the python file model_benchmarking.py. It automatically calls the rel
 
 To run any of the files:
 Simply run the python file. It automatically calls the related functions to preprocess data. Note that the files require the survey dataset which presently is not made available for public use.
+
+For complete details about the study, please refer the published article in the journal Transport Policy.
+url: https://www.sciencedirect.com/science/article/pii/S0967070X2500397X
+
+For citations: Shams, S., Munch, E., Touzout, F., Oukhellou, L., & Ameli, M. (2025). Critical commuters and staggered working hours strategies: A two-stage framework integrating machine learning and social equity. Transport Policy. https://www.sciencedirect.com/science/article/pii/S0967070X2500397X
